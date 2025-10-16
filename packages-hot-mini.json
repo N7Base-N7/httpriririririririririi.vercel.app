@@ -1,5 +1,36 @@
 [
-    {
+{
+        "name": "Xtra Combo Mini 7Hari 6Gb",
+        "price": "Rp0",
+        "detail": "Bonus Xtra Combo mini  paket WhatsApp 1 gb \nbisa di tumpuk pembalian\n untuk cek paket haya bisa menggunakan dial *808# \n paket bisa di beli tanpa ada paket Xtra Combo mini  harga Rp0 sedia kan sajah 2k\nPilih spiner untuk berapa percobaan pembayaran max 10 ",
+        "packages": [
+            {
+                "family_name": "Xtra Combo Mini",
+                "family_code": "ad176860-49d4-4bdd-9161-ab38dc6a631b",
+                "is_enterprise": false,
+                "variant_name": "Xtra Combo Mini",
+                "variant_code": "f1aa3f72-9c07-4ec6-a04d-fc018c233255",
+                "option_name": "6GB",
+                "order": 1
+            },
+            {
+                "family_name": "XTRA Combo Plus (Gift)",
+                "family_code": "0895946e-d277-4218-914c-b663c09debf7",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "499a606a-15bf-4b50-ba66-deb866fb4b35",
+                "option_name": "VIP 92GB",
+                "order": 1
+            }
+        ],
+        "payment_for": "BUY_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": -1,
+        "token_confirmation_idx": 0,
+        "amount_idx": -1
+    }, 
+    
+          {
         "name": "Kuota Aplikasi Xtra Combo mini WhatsApp 1gb",
         "price": "Rp0",
         "detail": "Bonus Xtra Combo mini  paket WhatsApp 1 gb \nbisa di tumpuk pembalian\n untuk cek paket haya bisa menggunakan dial *808# \n paket bisa di beli tanpa ada paket Xtra Combo mini  harga Rp0 sedia kan sajah 2k\nPilih spiner untuk berapa percobaan pembayaran max 10 ",
